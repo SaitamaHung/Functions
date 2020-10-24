@@ -1,5 +1,9 @@
 # Functions
 
+[![License](https://img.shields.io/github/license/Theopse/Functions)](https://choosealicense.com/licenses/bsd-2-clause/)
+[![Build Status](https://travis-ci.org/Theopse/Functions.svg?branch=default)](https://travis-ci.org/Theopse/Functions)
+[![GitHub repo size](https://img.shields.io/github/repo-size/Theopse/Functions)](https://github.com/Theopse/Functions)
+
 **TODO: Add description**
 
 ## Installation
